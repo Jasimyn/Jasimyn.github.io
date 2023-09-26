@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>ImagingLab@ZJU</a>. (The page of our lab is under construction, sry)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China<br>
+dengyw@zju.edu.cn<br>
+[Github](https://github.com/Jasimyn) | [Wechat](http://Jasimyn.github.io//assets/img/wechat.png) | [Bilibili](https://space.bilibili.com/414278948?spm_id_from=333.1007.0.0)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received B.Eng. degree in optoelectronic information science and engineering from Tianjin University, Tianjin, China, in 2022. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Presently, I am a Master Student at Zhejiang University, co-advised by Prof. [Qi Li](https://person.zju.edu.cn/0098047) and Prof. [Huajun Feng](https://person.zju.edu.cn/0086127). 
+My research focuses on multi-frame image restoration for rotating rectangular synthetic aperture imaging and some other low-level tasks. 
+
+**Research interest:** Optics, Computational Photography, Deep Learning, Low-level Computer Vision, Hybrid Optics and Advanced Imaging Devices.
