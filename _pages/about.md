@@ -25,4 +25,4 @@ I received B.Eng. degree in optoelectronic information science and engineering f
 Presently, I am a Master Student at Zhejiang University, co-advised by Prof. [Qi Li](https://person.zju.edu.cn/0098047) and Prof. [Huajun Feng](https://person.zju.edu.cn/0086127). 
 My research focuses on multi-frame image restoration for rotating rectangular synthetic aperture imaging and some other low-level tasks. 
 
-**Research interest:** Optics, Computational Photography, Deep Learning, Low-level Computer Vision, Hybrid Optics and Advanced Imaging Devices.
+**Research interest:** Optics, Computational Photography, Deep Learning, Low-level Computer Vision, Rectangular Rotation Synthetic Aperture and Advanced Imaging Devices.
